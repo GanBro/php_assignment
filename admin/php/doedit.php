@@ -13,6 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $description = $_POST['description'];
     $keyword = $_POST['keyword'];
     $content = $_POST['editorValue'];
+    echo "$coloum";
 //    $author = $_SESSION['htuser']; //只有登录才能发布文章，记得开启session
 //    $thumb = 'upload/' . $fileNewName;
 //    $times = time();

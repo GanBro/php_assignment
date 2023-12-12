@@ -51,7 +51,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $msg = '请选择一个爱好';
         include 'tips.php';
     } elseif (empty($_POST['assign'])) {
-        $msg = '不同意协议就别注册';
+        $msg = '请勾选用户协议';
         include "tips.php";
     } else {
 //            验证成功后收集用户信息

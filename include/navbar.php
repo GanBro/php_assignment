@@ -53,7 +53,7 @@
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a href="admin/admin.php">关于我们</a>
+                    <a href="admin/admin.php">后台管理</a>
                 </li>
             </ul>
         </div>
