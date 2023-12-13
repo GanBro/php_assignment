@@ -16,7 +16,7 @@
             <ul class="nav navbar-nav">
                 <!-- <li><a href="#">首页</a></li> -->
                 <li>
-                    <a href="../news.php">前端资讯</a>
+                    <a href="../news.php">资讯</a>
                 </li>
                 <li>
                     <a href="../course.php">课程选择</a>

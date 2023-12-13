@@ -20,7 +20,7 @@
         
         <ol class="breadcrumb">
             <li><a href="#">首页</a></li>
-            <li class="active">前端资讯</li>
+            <li class="active">课程选择</li>
         </ol>
 
     <div class="dropdown projects-header page-header">
